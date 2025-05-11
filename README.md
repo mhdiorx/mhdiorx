@@ -22,10 +22,9 @@
 📫 **راه‌های ارتباطی:**
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/mhdiorrx)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:mhdihaghi@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/mhdi.orx)
 
-📊 **آمار گیت‌هاب:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhdiorx&show_icons=true&theme=radical)
+
+
 
 ---
 ✨ "هر خط کد یک اثر هنری است که دنیای دیجیتال را می‌سازد"
