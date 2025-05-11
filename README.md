@@ -30,8 +30,8 @@
 ✨ "هر خط کد یک اثر هنری است که دنیای دیجیتال را می‌سازد"
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhdi.orx) 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?logo=telegram&logoColor=white)](https://t.me/mhdiorrx)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:mhdihaghi@gmail.com)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
